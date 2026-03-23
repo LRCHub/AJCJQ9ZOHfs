@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "激しい雨",
+  "base_artist": "Bentham",
+  "createdAt": "2026-03-23T17:48:49.452746Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "激しい雨",
+      "artist": "Bentham",
+      "has_synced": true,
+      "path": "select/01_激しい雨_Bentham.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "激しい雨",
+      "artist": "Bentham",
+      "has_synced": false,
+      "path": "select/pl_01_激しい雨_Bentham.txt"
+    }
+  ]
+}
